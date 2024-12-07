@@ -1,0 +1,2 @@
+# GeneticAlgorithm
+GeneticAlgorithm (TourmentSelection-TwoPointCrossOver-NonuniformMutation-Elitism)
